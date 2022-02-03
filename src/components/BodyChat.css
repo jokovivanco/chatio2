@@ -1,0 +1,4 @@
+.scroll {
+  flex: auto;
+  overflow: auto;
+}
